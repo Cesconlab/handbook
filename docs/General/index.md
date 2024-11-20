@@ -2,7 +2,7 @@
 
 ## What is the handbook?
 
-The handbook is a collection of resources for the BHK Lab. It is intended to be a resource for all BHK Lab members to learn about the lab, its projects, and how to get involved.
+The handbook is a collection of resources for the Cescon Lab. It is intended to be a resource for all Cescon Lab members to learn about the lab, its projects, and how to get involved.
 
 {%
     include-markdown "../../README.md"
@@ -12,7 +12,7 @@ The handbook is a collection of resources for the BHK Lab. It is intended to be 
 
 ## Want to Contribute?
 
-If you're interested in contributing to the BHK Lab Handbook, we encourage
+If you're interested in contributing to the Cescon Lab Handbook, we encourage
 you to check out our **[Contributing Section][contributing-to-the-lab-handbook]**.
 
 Whether you're looking to [report an issue][submitting-issues],
@@ -23,5 +23,5 @@ handbook a valuable tool for the entire lab community!
 
 !!! tip "This handbook is under active development and open-source!"
 
-    Visit the [GitHub repository](https://github.com/bhklab/handbook) to
+    Visit the [GitHub repository](https://github.com/cesconlab/handbook) to
     see the latest updates and contribute to the project.
