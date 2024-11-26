@@ -1,5 +1,5 @@
 site_name: CesconLab Handbook
-site_url: "https://cesconlab.github.io/dev/handbook/" # Trailing slash is recommended
+site_url: "https://cesconlab.github.io/dev/handbook/dev" # Trailing slash is recommended
 repo_url: https://github.com/cesconlab/handbook
 repo_name: cesconlab/handbook
 
