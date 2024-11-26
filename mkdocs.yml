@@ -1,5 +1,5 @@
 site_name: CesconLab Handbook
-site_url: "https://cesconlab.github.io/dev/handbook/" # Trailing slash is recommended
+site_url: "https://cesconlab.github.io/handbook/" # Trailing slash is recommended
 repo_url: https://github.com/cesconlab/handbook
 repo_name: cesconlab/handbook
 
@@ -40,7 +40,7 @@ plugins:
   - mike                              # mike handles versioned documentation
 
 extra:
-  homepage: https://cesconlab.github.io/handbook/dev
+  homepage: https://cesconlab.github.io/handbook/latest
   social:
     #######################################################################################
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
@@ -49,7 +49,7 @@ extra:
       name: Check out our GitHub!
   version:
     provider: mike
-    default: dev
+    default: latest
   generator: false                     # disable 'built with MkDocs' footer
 
 extra_javascript:

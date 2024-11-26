@@ -1,3 +1,3 @@
-# CesconLab Code of Conduct
+# BHKLab Code of Conduct
 
 TODO::
