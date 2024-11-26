@@ -2,7 +2,7 @@
 
 This is the repository for the Lab Handbook.
 
-Visit the [Lab Handbook](https://cesconlab.github.io/handbook/) to see
+Visit the [Lab Handbook](https://cesconlab.github.io/handbook/dev) to see
 what the handbook is about.
 
 
