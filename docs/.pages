@@ -1,7 +1,10 @@
 nav:
     - General
+    - Inventory
+    - Protocols
+    - Data
     - Workflow
-    - Lab_Data
+    - Resources
     - Onboarding_Offboarding
-    - contributing
+    - Contributing
     - ...

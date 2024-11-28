@@ -1,4 +1,4 @@
-# Molecular Data Workflow
+# Molecular Data Analysis
 
 ## [RNAseq](RNAseq/index.md)
 
