@@ -1,191 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/lab_mission/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Clinical_Data/introduction/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/Code_Of_Conduct/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Drug_Testing_Data/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/Manuscripts/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Drug_Testing_Data/Drug_Response/drug_response/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/Meetings/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Drug_Testing_Data/Drugs/drugs/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/Presentations/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Molecular_Data/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/Presentations/tools/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Molecular_Data/ATACseq/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/General/Projects/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Molecular_Data/Molecular_Data_Summary/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Molecular_Data/RNAseq/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/adding_content/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Molecular_Data/WES/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/changelog/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Data/Molecular_Data/WGS/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/merging_pr/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/General/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/prerequisites/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/General/lab_mission/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/release_deployment/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/General/Manuscripts/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/reviews/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/General/Meetings/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/contributing/submitting_issues/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/General/Presentations/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/General/Presentations/tools/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Bioinformatics/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/General/Projects/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Bioinformatics/Data_Types/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Inventory/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Bioinformatics/Data_Types/rnaseq/introduction/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Inventory/Reagents/reagents/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Data_Science/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Inventory/Samples/samples/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Imaging/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/OnboardingOffboarding/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Imaging/Radiomics/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/OnboardingOffboarding/Offboarding/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Imaging/Tools/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/OnboardingOffboarding/Onboarding/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Machine_Learning/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Protocols/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/disciplines/Pharmacogenomics/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Protocols/Biosafety/biosafetly/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/onboarding_offboarding/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Protocols/SOPs/SOPs/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/onboarding_offboarding/Offboarding/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Resources/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/onboarding_offboarding/Onboarding/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Workflow/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Workflow/Drug_Testing_Data_Analysis/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Cloud/compute_canada_cloud/introduction/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Workflow/Molecular_Data_Analysis/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Development_Environment/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Workflow/Molecular_Data_Analysis/RNAseq/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Development_Environment/CLI_Tools/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Workflow/Molecular_Data_Analysis/WES/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Development_Environment/Containerization/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/Workflow/Others/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Development_Environment/Integrated_Development_Environments/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Development_Environment/Package_Managers/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/adding_content/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Development_Environment/Shells/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/changelog/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/merging_pr/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/Javascript_Typescript/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/prerequisites/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/Markdown/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/release_deployment/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/Markdown/mkdocs/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/reviews/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
     <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/Markdown/mkdocs/examples/</loc>
-         <lastmod>2024-11-15</lastmod>
-    </url>
-    <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/Python/</loc>
-         <lastmod>2024-11-15</lastmod>
-    </url>
-    <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/R/</loc>
-         <lastmod>2024-11-15</lastmod>
-    </url>
-    <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Languages/Rust/</loc>
-         <lastmod>2024-11-15</lastmod>
-    </url>
-    <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Remote_Development/High_Performance_Computing_for_Health/</loc>
-         <lastmod>2024-11-15</lastmod>
-    </url>
-    <url>
-         <loc>https://cesconlab.github.io/handbook/dev/software_development/Version_Control/temp/</loc>
-         <lastmod>2024-11-15</lastmod>
+         <loc>https://cesconlab.github.io/dev/handbook/dev/dev/contributing/submitting_issues/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
 </urlset>
