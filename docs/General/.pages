@@ -1,8 +1,7 @@
 title: General
 
 nav:
-    - Home: index.md
-    - Mission
+    - Home: Mission
     - Projects
     - Manuscripts
     - Meetings
